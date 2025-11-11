@@ -1,7 +1,7 @@
 # Pre-Register-Application-Power platform
 # Employee Pre-Register Application (Power Apps)
 ##DEMO:
-![Employee Pre-Register demo](assets/pre-register.gif);
+![Employee Pre-Register demo](pre-register.gif);
 
 
 This Power Apps canvas app lets an admin **pre-register employees** for on-site visits/inspections. The admin can search employees, see upcoming visits, and mark a visit as **checked-out** — checked-out visits are hidden from the list so the admin only sees what’s still pending.
